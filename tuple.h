@@ -216,7 +216,5 @@ namespace _Tuple {
     }
 }
 
-using namespace _Tuple;
-
 #endif //TUPLE_H
 
